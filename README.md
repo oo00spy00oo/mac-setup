@@ -1,4 +1,4 @@
-# Base Project:
+# Base Project
 
 https://github.com/geerlingguy/mac-dev-playbook
 
