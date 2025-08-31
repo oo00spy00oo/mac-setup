@@ -1,3 +1,11 @@
+# Prequitesites
+
+Install required package first:
+
+```bash
+sudo softwareupdate --install-rosetta
+```
+
 # LazyVim
 
 `nvim`
