@@ -1,0 +1,170 @@
+configure_dotfiles: no
+configure_dock: true
+configure_terminal: false
+configure_osx: false
+dockitems_remove:
+  - Mail
+  - TV
+  - Podcasts
+  - Music
+
+osx_script: ""
+
+mas_installed_apps:
+  - { id: 441258766, name: "Magnet" }
+  - { id: 1352778147, name: "Bitwarden" }
+  - { id: 1661733229, name: "LocalSend" }
+  - { id: 1584519802, name: "Vimlike" }
+  - { id: 1480068668, name: "Messenger" }
+  - { id: 425955336, name: "Skitch - Snap. Mark up. Share." }
+  - { id: 937984704, name: "Amphetamine" }
+  - { id: 784801555, name: "Microsoft OneNote" }
+  - { id: 1274495053, name: "Microsoft To Do" }
+  - { id: 1544743900, name: "Hush Nag Blocker" }
+  - { id: 6469021132, name: "PDFgear: PDF Editor & Reader" }
+
+homebrew_taps:
+  - rogeriopradoj/cask-peazip
+
+homebrew_installed_packages:
+  # Core utilities
+  - autoconf
+  - bash-completion
+  - chezmoi
+  - direnv
+  - eza
+  - bat
+  - gzip
+  - openssl
+  - just
+  - jc
+  - pv
+  - pipx
+  - readline
+  - ripgrep
+  - ssh-copy-id
+  - unzip
+  - wget
+  - zoxide
+  - fzf
+  - thefuck
+  - autojump
+  - starship
+
+  # Development tools
+  - asdf
+  - ast-grep
+  - commitizen
+  - d2
+  - doxygen
+  - fastfetch
+  - gettext
+  - git
+  - lazygit
+  - gh
+  - fd
+  - gifsicle
+  - goenv
+  - graphviz
+  - luarocks
+  - neovim
+  - jq
+  - yq
+  - libevent
+  - mas
+  - openjpeg
+  - pngpaste
+
+  # Security tools
+  - detect-secrets
+  - gpg
+
+  # Network utilities
+  - httpie
+  - iperf
+  - k6
+  - nmap
+  - rclone
+  - wrk
+
+  # Kubernetes & Cloud tools
+  - argocd
+  - dapr/tap/dapr-cli
+  - dive
+  - fluxcd/tap/flux
+  - k9s
+  - kube-ps1
+  - kubeseal
+  - kubernetes-cli
+  - kubectx
+  - kustomize
+  - opentofu
+  - skaffold
+  - weaveworks/tap/gitops
+
+  # Miscellaneous
+  - snappy
+  - zsh-history-substring-search
+  - pastel
+
+homebrew_cask_apps:
+  # Browsers
+  - arc
+  - firefox
+  - microsoft-edge
+  - thebrowsercompany-dia
+
+  # Development & Programming
+  - altair-graphql-client
+  - apache-directory-studio
+  - bruno
+  - chromedriver
+  - dbeaver-community
+  - docker
+  - github
+  - lens
+  - multipass
+  - postman
+  - warp
+
+  # Utility Software
+  - another-redis-desktop-manager
+  - evkey
+  - free-download-manager
+  - handbrake
+  - licecap
+  - marta
+  - peazip
+  - raycast
+  - switchhosts
+  - transmit
+  - xpipe-io/tap/xpipe
+  - jordanbaird-ice
+
+  # Fonts
+  - font-fira-code-nerd-font
+  - font-hack-nerd-font
+  - font-nats
+
+  # Communication & Collaboration
+  - beeper
+  - clickup
+  - discord
+  - microsoft-auto-update
+  - microsoft-teams
+  - notion
+  - simplenote
+  - telegram
+  - readdle-spark
+
+  # Media & Graphics
+  - gimp
+  - obs
+  - parsec
+
+  # Office & Productivity
+  - softmaker-freeoffice
+
+pip_packages: []
+  # - name: mkdocs
+  # - name: pandoc
