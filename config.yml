@@ -18,6 +18,7 @@ mas_installed_apps:
   - { id: 1480068668, name: "Messenger" }
   - { id: 425955336, name: "Skitch - Snap. Mark up. Share." }
   - { id: 937984704, name: "Amphetamine" }
+  - { id: 823766827, name: "OneDrive" }
   - { id: 784801555, name: "Microsoft OneNote" }
   - { id: 1274495053, name: "Microsoft To Do" }
   - { id: 1544743900, name: "Hush Nag Blocker" }
