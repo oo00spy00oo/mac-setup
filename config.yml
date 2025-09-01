@@ -76,6 +76,7 @@ homebrew_installed_packages:
   - pngpaste
 
   # Security tools
+  - bitwarden-cli
   - detect-secrets
   - gpg
 
@@ -115,6 +116,7 @@ homebrew_cask_apps:
   - thebrowsercompany-dia
 
   # Development & Programming
+  - amazon-q
   - altair-graphql-client
   - apache-directory-studio
   - bruno
@@ -126,6 +128,8 @@ homebrew_cask_apps:
   - multipass
   - postman
   - warp
+  - mongodb-compass
+  - figma
 
   # Utility Software
   - another-redis-desktop-manager
@@ -140,6 +144,11 @@ homebrew_cask_apps:
   - transmit
   - xpipe-io/tap/xpipe
   - jordanbaird-ice
+  - freefilesync
+  - cloudflare-warp
+  - airparrot
+  - reflector
+  - adguard-vpn
 
   # Fonts
   - font-fira-code-nerd-font
@@ -164,6 +173,7 @@ homebrew_cask_apps:
 
   # Office & Productivity
   - softmaker-freeoffice
+  - wpsoffice
 
 pip_packages: []
   # - name: mkdocs
