@@ -149,6 +149,7 @@ homebrew_cask_apps:
   - airparrot
   - reflector
   - adguard-vpn
+  - teamviewer
 
   # Fonts
   - font-fira-code-nerd-font
