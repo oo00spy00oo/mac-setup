@@ -75,6 +75,7 @@ homebrew_installed_packages:
   - openjpeg
   - pngpaste
   - cloudflared
+  - helix
 
   # Security tools
   - bitwarden-cli
