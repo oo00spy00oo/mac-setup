@@ -74,6 +74,7 @@ homebrew_installed_packages:
   - mas
   - openjpeg
   - pngpaste
+  - cloudflared
 
   # Security tools
   - bitwarden-cli
