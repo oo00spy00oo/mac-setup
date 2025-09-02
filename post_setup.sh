@@ -7,4 +7,4 @@ volta install node
 volta install pnpm
 
 # Chezmoi
-chezmoi init git@github.com:oo00spy00oo/dotfiles.git
+chezmoi init --apply git@github.com:oo00spy00oo/dotfiles.git
