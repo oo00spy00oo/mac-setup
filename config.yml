@@ -7,6 +7,11 @@ dockitems_remove:
   - TV
   - Podcasts
   - Music
+  - Reminders
+  - Notes
+  - FaceTime
+  - Photos
+  - Maps
 
 osx_script: ""
 
@@ -123,6 +128,7 @@ homebrew_cask_apps:
   - altair-graphql-client
   - apache-directory-studio
   - bruno
+  - cursor
   - chromedriver
   - dbeaver-community
   - docker
@@ -182,3 +188,4 @@ homebrew_cask_apps:
 pip_packages: []
   # - name: mkdocs
   # - name: pandoc
+  # - name: pre-commit
