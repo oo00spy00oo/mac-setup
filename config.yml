@@ -72,6 +72,7 @@ homebrew_installed_packages:
   - gifsicle
   - goenv
   - graphviz
+  - helm
   - luarocks
   - neovim
   - jq
