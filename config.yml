@@ -72,7 +72,6 @@ homebrew_installed_packages:
   - gifsicle
   - goenv
   - graphviz
-  - helm
   - luarocks
   - neovim
   - jq
@@ -102,6 +101,8 @@ homebrew_installed_packages:
   - dapr/tap/dapr-cli
   - dive
   - fluxcd/tap/flux
+  - helm
+  - helmfile
   - k9s
   - kube-ps1
   - kubeseal
