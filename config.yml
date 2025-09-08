@@ -112,6 +112,7 @@ homebrew_installed_packages:
   - opentofu
   - skaffold
   - weaveworks/tap/gitops
+  - operator-sdk
 
   # Miscellaneous
   - snappy
