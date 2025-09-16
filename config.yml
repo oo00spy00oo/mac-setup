@@ -142,6 +142,7 @@ homebrew_cask_apps:
   - warp
   - mongodb-compass
   - figma
+  - lulu
 
   # Utility Software
   - another-redis-desktop-manager
