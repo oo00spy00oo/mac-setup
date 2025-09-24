@@ -118,6 +118,7 @@ homebrew_installed_packages:
   - snappy
   - zsh-history-substring-search
   - pastel
+  - pandoc
 
 homebrew_cask_apps:
   # Browsers
