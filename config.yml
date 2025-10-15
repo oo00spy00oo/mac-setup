@@ -73,6 +73,7 @@ homebrew_installed_packages:
   - goenv
   - graphviz
   - luarocks
+  - libpq
   - neovim
   - jq
   - yq
