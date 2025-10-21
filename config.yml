@@ -167,6 +167,7 @@ homebrew_cask_apps:
   - reflector
   - adguard-vpn
   - teamviewer
+  - pearcleaner
 
   # Fonts
   - font-fira-code-nerd-font
