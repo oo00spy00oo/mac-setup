@@ -31,6 +31,7 @@ mas_installed_apps:
 
 homebrew_taps:
   - rogeriopradoj/cask-peazip
+  - deskflow/homebrew-tap
 
 homebrew_installed_packages:
   # Core utilities
@@ -120,6 +121,7 @@ homebrew_installed_packages:
   - zsh-history-substring-search
   - pastel
   - pandoc
+  - deskflow
 
 homebrew_cask_apps:
   # Browsers
