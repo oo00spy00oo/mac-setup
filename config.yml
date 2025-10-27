@@ -122,6 +122,7 @@ homebrew_installed_packages:
   - pastel
   - pandoc
   - deskflow
+  - magic-wormhole
 
 homebrew_cask_apps:
   # Browsers
