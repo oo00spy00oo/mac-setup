@@ -32,6 +32,7 @@ mas_installed_apps:
 homebrew_taps:
   - rogeriopradoj/cask-peazip
   - deskflow/homebrew-tap
+  - cosmincatalin/tap
 
 homebrew_installed_packages:
   # Core utilities
@@ -123,6 +124,7 @@ homebrew_installed_packages:
   - pandoc
   - deskflow
   - magic-wormhole
+  - brew-explorer
 
 homebrew_cask_apps:
   # Browsers
