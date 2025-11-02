@@ -28,6 +28,7 @@ mas_installed_apps:
   - { id: 1274495053, name: "Microsoft To Do" }
   - { id: 1544743900, name: "Hush Nag Blocker" }
   - { id: 6469021132, name: "PDFgear: PDF Editor & Reader" }
+  - { id: 6747400514, name: "Tidora" }
 
 homebrew_taps:
   - rogeriopradoj/cask-peazip
