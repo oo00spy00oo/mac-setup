@@ -34,6 +34,7 @@ homebrew_taps:
   - rogeriopradoj/cask-peazip
   - deskflow/homebrew-tap
   - cosmincatalin/tap
+  - amir1376/tap
 
 homebrew_installed_packages:
   # Core utilities
@@ -173,6 +174,7 @@ homebrew_cask_apps:
   - teamviewer
   - pearcleaner
   - reminders-menubar
+  - ab-download-manager
 
   # Fonts
   - font-fira-code-nerd-font
