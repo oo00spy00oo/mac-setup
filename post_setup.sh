@@ -13,3 +13,6 @@ chezmoi init --apply git@github.com:oo00spy00oo/dotfiles.git
 1. You may need to run the following command to use PeaZip.app (*):
 
 xattr -dr com.apple.quarantine /Applications/peazip.app
+
+# Atuin
+brew services start atuin
