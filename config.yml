@@ -118,6 +118,7 @@ homebrew_installed_packages:
   - skaffold
   - weaveworks/tap/gitops
   - operator-sdk
+  - stern
 
   # Miscellaneous
   - snappy
