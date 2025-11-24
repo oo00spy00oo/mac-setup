@@ -176,6 +176,7 @@ homebrew_cask_apps:
   - pearcleaner
   - reminders-menubar
   - ab-download-manager
+  - iterm2
 
   # Fonts
   - font-fira-code-nerd-font
