@@ -153,6 +153,7 @@ homebrew_cask_apps:
   - mongodb-compass
   - figma
   - lulu
+  - pritunl
 
   # Utility Software
   - another-redis-desktop-manager
