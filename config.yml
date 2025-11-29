@@ -87,6 +87,7 @@ homebrew_installed_packages:
   - pngpaste
   - cloudflared
   - helix
+  - repomix
 
   # Security tools
   - bitwarden-cli
