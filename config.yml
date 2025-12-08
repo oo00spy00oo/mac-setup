@@ -180,6 +180,7 @@ homebrew_cask_apps:
   - reminders-menubar
   - ab-download-manager
   - iterm2
+  - freefilesync
 
   # Fonts
   - font-fira-code-nerd-font
