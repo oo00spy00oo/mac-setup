@@ -60,6 +60,7 @@ homebrew_installed_packages:
   - thefuck
   - autojump
   - starship
+  - tw93/tap/mole
 
   # Development tools
   - asdf
