@@ -121,6 +121,7 @@ homebrew_installed_packages:
   - weaveworks/tap/gitops
   - operator-sdk
   - stern
+  - kubie
 
   # Miscellaneous
   - snappy
