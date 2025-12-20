@@ -1,57 +1,85 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
 {
+  "context_servers": {
+    "mcp-server-markitdown": {
+      "enabled": true,
+      "settings": {
+        "package_version": "latest",
+      },
+    },
+    "mcp-server-context7": {
+      "enabled": true,
+      "settings": {
+        "context7_api_key": "ctx7sk-5088c0d7-8b6a-494e-8b22-28f0f7795587",
+      },
+    },
+  },
+  "agent_servers": {},
   "features": {
-    "edit_prediction_provider": "copilot"
+    "edit_prediction_provider": "copilot",
   },
   "agent": {
+    "always_allow_tool_actions": true,
+    "default_model": {
+      "provider": "copilot_chat",
+      "model": "oswe-vscode-prime",
+    },
     "inline_assistant_model": {
       "provider": "copilot_chat",
-      "model": "claude-3.7-sonnet"
-    }
+      "model": "claude-sonnet-4",
+    },
   },
   "confirm_quit": true,
   "tabs": {
     "file_icons": true,
-    "git_status": true
+    "git_status": true,
   },
   "autosave": {
     "after_delay": {
-      "milliseconds": 3000
-    }
+      "milliseconds": 3000,
+    },
   },
   "helix_mode": true,
   "minimap": {
-    "show": "always"
+    "show": "always",
   },
   "base_keymap": "VSCode",
-  "ui_font_size": 14,
+  "ui_font_size": 13,
   "buffer_font_size": 13,
+  "ui_font_family": "FiraCode Nerd Font Mono",
   "terminal": {
     "font_size": 12,
-    "font_family": "FiraCode Nerd Font Mono"
+    "font_family": "FiraCode Nerd Font Mono",
   },
   "theme": {
     "mode": "system",
     "light": "One Light",
-    "dark": "One Dark"
+    "dark": "One Dark",
   },
-  "ui_font_family": "FiraCode Nerd Font Mono",
   "languages": {
     "TypeScript": {
       "code_actions_on_format": {
+        "source.fixAll.eslint": true,
         "source.organizeImports": true,
-        "source.fixAll.eslint": true
-      }
+      },
     },
     "JavaScript": {
       "code_actions_on_format": {
-        "source.fixAll.eslint": true
-      }
+        "source.fixAll.eslint": true,
+      },
     },
     "TSX": {
       "code_actions_on_format": {
+        "source.fixAll.eslint": true,
         "source.organizeImports": true,
-        "source.fixAll.eslint": true
-      }
-    }
-  }
+      },
+    },
+  },
 }
