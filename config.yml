@@ -96,6 +96,7 @@ homebrew_installed_packages:
   - repomix
   - mermaid-cli
   - mongodb-database-tools
+  - pre-commit
 
   # Security tools
   - bitwarden-cli
