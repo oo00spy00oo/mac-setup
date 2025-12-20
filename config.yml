@@ -120,6 +120,7 @@ homebrew_installed_packages:
   - kubeseal
   - kubernetes-cli
   - kubectx
+  - kubetail
   - kustomize
   - opentofu
   - skaffold
