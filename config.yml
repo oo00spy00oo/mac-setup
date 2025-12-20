@@ -127,6 +127,7 @@ homebrew_installed_packages:
   - operator-sdk
   - stern
   - kubie
+  - kubecolor
 
   # Miscellaneous
   - snappy
