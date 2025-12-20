@@ -148,7 +148,6 @@ homebrew_cask_apps:
   - thebrowsercompany-dia
 
   # Development & Programming
-  - amazon-q
   - altair-graphql-client
   - apache-directory-studio
   - bruno
