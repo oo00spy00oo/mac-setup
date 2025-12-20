@@ -38,6 +38,7 @@ homebrew_taps:
   - cosmincatalin/tap
   - amir1376/tap
   - deskflow/tap
+  - mongodb/brew
 
 homebrew_installed_packages:
   # Core utilities
@@ -94,6 +95,7 @@ homebrew_installed_packages:
   - helix
   - repomix
   - mermaid-cli
+  - mongodb-database-tools
 
   # Security tools
   - bitwarden-cli
