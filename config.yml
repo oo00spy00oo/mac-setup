@@ -12,6 +12,10 @@ dockitems_remove:
   - FaceTime
   - Photos
   - Maps
+  - Keynote
+  - Games
+  - Numbers
+  - Pages
 
 osx_script: ""
 
@@ -32,9 +36,9 @@ mas_installed_apps:
 
 homebrew_taps:
   - rogeriopradoj/cask-peazip
-  - deskflow/homebrew-tap
   - cosmincatalin/tap
   - amir1376/tap
+  - deskflow/tap
 
 homebrew_installed_packages:
   # Core utilities
@@ -61,6 +65,7 @@ homebrew_installed_packages:
   - autojump
   - starship
   - tw93/tap/mole
+  - atuin
 
   # Development tools
   - asdf
@@ -128,7 +133,7 @@ homebrew_installed_packages:
   - zsh-history-substring-search
   - pastel
   - pandoc
-  - deskflow
+  # - deskflow
   - magic-wormhole
   - brew-explorer
   - croc
@@ -148,7 +153,6 @@ homebrew_cask_apps:
   - cursor
   - chromedriver
   - dbeaver-community
-  - docker
   - github
   - lens
   - multipass
@@ -158,6 +162,7 @@ homebrew_cask_apps:
   - figma
   - lulu
   - pritunl
+  - orbstack
 
   # Utility Software
   - another-redis-desktop-manager
