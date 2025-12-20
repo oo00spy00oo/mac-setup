@@ -154,7 +154,6 @@ homebrew_cask_apps:
   - chromedriver
   - dbeaver-community
   - github
-  - lens
   - multipass
   - postman
   - warp
@@ -163,6 +162,10 @@ homebrew_cask_apps:
   - lulu
   - pritunl
   - orbstack
+
+  # Kubernetes & Cloud Tools
+  - lens
+  - freelens
 
   # Utility Software
   - another-redis-desktop-manager
