@@ -94,6 +94,7 @@ homebrew_installed_packages:
   - cloudflared
   - helix
   - repomix
+  - mermaid-cli
 
   # Security tools
   - bitwarden-cli
