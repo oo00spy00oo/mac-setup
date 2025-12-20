@@ -24,7 +24,6 @@ mas_installed_apps:
   - { id: 1352778147, name: "Bitwarden" }
   - { id: 1661733229, name: "LocalSend" }
   - { id: 1584519802, name: "Vimlike" }
-  - { id: 1480068668, name: "Messenger" }
   - { id: 425955336, name: "Skitch - Snap. Mark up. Share." }
   - { id: 937984704, name: "Amphetamine" }
   - { id: 823766827, name: "OneDrive" }
@@ -189,6 +188,7 @@ homebrew_cask_apps:
   - ab-download-manager
   - iterm2
   - freefilesync
+  - flameshot
 
   # Fonts
   - font-fira-code-nerd-font
