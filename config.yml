@@ -146,7 +146,6 @@ homebrew_installed_packages:
 
 homebrew_cask_apps:
   # Browsers
-  - arc
   - firefox
   - microsoft-edge
   - thebrowsercompany-dia
@@ -215,6 +214,7 @@ homebrew_cask_apps:
   - simplenote
   - telegram
   - readdle-spark
+  - notion-mail
 
   # Media & Graphics
   - gimp
