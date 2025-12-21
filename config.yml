@@ -97,6 +97,7 @@ homebrew_installed_packages:
   - mermaid-cli
   - mongodb-database-tools
   - pre-commit
+  - superfile
 
   # Security tools
   - bitwarden-cli
@@ -166,6 +167,8 @@ homebrew_cask_apps:
   - lulu
   - pritunl
   - orbstack
+  - ghostty
+  - datagrip
 
   # Kubernetes & Cloud Tools
   - lens
