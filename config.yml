@@ -219,7 +219,6 @@ homebrew_cask_apps:
   # Media & Graphics
   - gimp
   - obs
-  - parsec
 
   # Office & Productivity
   - onlyoffice
