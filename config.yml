@@ -198,6 +198,7 @@ homebrew_cask_apps:
   - iterm2
   - freefilesync
   - flameshot
+  - karabiner-elements
 
   # Fonts
   - font-fira-code-nerd-font
