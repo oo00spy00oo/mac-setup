@@ -66,6 +66,7 @@ homebrew_installed_packages:
   - starship
   - tw93/tap/mole
   - atuin
+  - tmuxinator
 
   # Development tools
   - asdf
