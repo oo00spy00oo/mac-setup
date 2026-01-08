@@ -32,3 +32,12 @@ bash <(curl -fsSL https://moonrepo.dev/install/proto.sh)
 ```bash
 proto install moon
 ```
+
+## Oh My Tmux
+
+Home: https://github.com/gpakosz/.tmux
+Automatically Install: 
+
+```bash
+curl -fsSL "https://github.com/gpakosz/.tmux/raw/refs/heads/master/install.sh#$(date +%s)" | bash
+```
