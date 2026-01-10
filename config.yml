@@ -200,6 +200,7 @@ homebrew_cask_apps:
   - freefilesync
   - flameshot
   - karabiner-elements
+  - fliqlo
 
   # Fonts
   - font-fira-code-nerd-font
