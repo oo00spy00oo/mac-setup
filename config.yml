@@ -169,6 +169,7 @@ homebrew_cask_apps:
   - orbstack
   - ghostty
   - datagrip
+  - podman-desktop
 
   # Kubernetes & Cloud Tools
   - lens
