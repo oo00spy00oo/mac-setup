@@ -67,6 +67,7 @@ homebrew_installed_packages:
   - tw93/tap/mole
   - atuin
   - tmuxinator
+  - fnm
 
   # Development tools
   - asdf
