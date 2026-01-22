@@ -171,6 +171,7 @@ homebrew_cask_apps:
   - ghostty
   - datagrip
   - podman-desktop
+  - google-cloud-sdk
 
   # Kubernetes & Cloud Tools
   - lens
