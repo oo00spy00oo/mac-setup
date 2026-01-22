@@ -135,6 +135,7 @@ homebrew_installed_packages:
   - stern
   - kubie
   - kubecolor
+  - liqoctl
 
   # Miscellaneous
   - snappy
