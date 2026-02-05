@@ -152,6 +152,7 @@ homebrew_installed_packages:
   - magic-wormhole
   - brew-explorer
   - croc
+  - stats
 
 homebrew_cask_apps:
   # Browsers
