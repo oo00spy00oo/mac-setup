@@ -154,6 +154,7 @@ homebrew_installed_packages:
   - croc
   - stats
   - only-switch
+  - iordv/tap/droppy
 
 homebrew_cask_apps:
   # Browsers
