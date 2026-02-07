@@ -211,7 +211,6 @@ homebrew_cask_apps:
   - ab-download-manager
   - iterm2
   - freefilesync
-  - flameshot
   - karabiner-elements
   - fliqlo
 
