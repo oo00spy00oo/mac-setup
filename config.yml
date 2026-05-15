@@ -184,6 +184,7 @@ homebrew_cask_apps:
   - datagrip
   - podman-desktop
   - google-cloud-sdk
+  - gitbutler
 
   # Kubernetes & Cloud Tools
   - lens
