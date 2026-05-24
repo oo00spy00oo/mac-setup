@@ -40,6 +40,7 @@ homebrew_taps:
   - deskflow/tap
   - mongodb/brew
   - messense/macos-cross-toolchains
+  - manaflow-ai/cmux
 
 homebrew_installed_packages:
   # Core utilities
@@ -185,6 +186,7 @@ homebrew_cask_apps:
   - podman-desktop
   - google-cloud-sdk
   - gitbutler
+  - cmux
 
   # Kubernetes & Cloud Tools
   - lens
