@@ -220,6 +220,7 @@ homebrew_cask_apps:
   - karabiner-elements
   - fliqlo
   - dockdoor
+  - rectangle
 
   # Fonts
   - font-fira-code-nerd-font
