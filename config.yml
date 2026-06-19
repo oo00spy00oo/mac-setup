@@ -111,6 +111,7 @@ homebrew_installed_packages:
   - mongodb-database-tools
   - pre-commit
   - superfile
+  - opencode
 
   # Security tools
   - bitwarden-cli
