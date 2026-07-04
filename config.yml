@@ -222,6 +222,7 @@ homebrew_cask_apps:
   - fliqlo
   - dockdoor
   - rectangle
+  - puremac
 
   # Fonts
   - font-fira-code-nerd-font
