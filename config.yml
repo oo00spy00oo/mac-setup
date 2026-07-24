@@ -189,6 +189,7 @@ homebrew_cask_apps:
   - google-cloud-sdk
   - gitbutler
   - cmux
+  - stablyai/orca/orca
 
   # Kubernetes & Cloud Tools
   - lens
