@@ -207,7 +207,6 @@ homebrew_cask_apps:
   - switchhosts
   - transmit
   - xpipe-io/tap/xpipe
-  - jordanbaird-ice
   - freefilesync
   - cloudflare-warp
   - airparrot
@@ -248,7 +247,6 @@ homebrew_cask_apps:
 
   # Office & Productivity
   - onlyoffice
-  - wpsoffice
 
 pip_packages: []
   # - name: mkdocs
