@@ -215,7 +215,6 @@ homebrew_cask_apps:
   - pearcleaner
   - reminders-menubar
   - ab-download-manager
-  - iterm2
   - freefilesync
   - karabiner-elements
   - fliqlo
