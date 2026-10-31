@@ -245,7 +245,6 @@ homebrew_cask_apps:
   - obs
 
   # Office & Productivity
-  - onlyoffice
 
 pip_packages: []
   # - name: mkdocs
